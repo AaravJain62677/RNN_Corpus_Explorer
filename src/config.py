@@ -2,7 +2,7 @@ CONFIG = {
 
     "dataset_path": "data/raw/input.txt",
 
-    "sequence_length": 100,
+    "sequence_length": 128,
 
     "batch_size": 64,
 
@@ -12,9 +12,9 @@ CONFIG = {
 
     "num_layers": 2,
 
-    "learning_rate": 0.001,
+    "learning_rate": 0.01,
 
-    "epochs": 10,
+    "epochs": 1,
 
     "model_type": "lstm",
 

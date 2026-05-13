@@ -1,10 +1,10 @@
 import torch
 import torch.nn.functional as F
 
-from config import CONFIG
-from preprocess import TextProcessor
-from model import RNNModel
-from utils import get_device
+from src.config import CONFIG
+from src.preprocess import TextProcessor
+from src.model import RNNModel
+from src.utils import get_device
 
 
 def generate_text(
