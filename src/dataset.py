@@ -7,7 +7,7 @@ class TextDataset(Dataset):
         self,
         data,
         sequence_length,
-        stride=32
+        stride=128
     ):
 
         self.data = data
