@@ -237,13 +237,13 @@ Although semantic coherence remains limited, the generated samples resemble real
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rnn-corpus-explorer.git
+git clone https://github.com/AaravJain62677/RNN_Corpus_Explorer.git
 ```
 
 Enter project directory:
 
 ```bash
-cd rnn-corpus-explorer
+cd RNN_Corpus_Explorer
 ```
 
 Create virtual environment:
